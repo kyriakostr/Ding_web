@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ding</string>
+    <string name="facebook_app_id">918115922900929</string>
+    <string name="fb_login_protocol_scheme">fb918115922900929</string>
+    <string name="facebook_client_token">38bacdf5b14b79fecc493e11fd673e91</string>
+
+
+</resources>
